@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/story-sellers/static/css/main.f5743f87.css",
+    "main.js": "/story-sellers/static/js/main.37a9e209.js",
+    "static/media/compiled.png": "/story-sellers/static/media/compiled.dd77593f057840d09832.png",
+    "static/media/7.jpg": "/story-sellers/static/media/7.8146e5edbe16acf81608.jpg",
+    "static/media/img3.png": "/story-sellers/static/media/img3.9139fac7a3a42b507f80.png",
+    "static/media/book-icon.png": "/story-sellers/static/media/book-icon.f3129d4715b83116ffd9.png",
+    "static/media/img1.png": "/story-sellers/static/media/img1.d2e5595cd09d20708214.png",
+    "static/media/10.jpg": "/story-sellers/static/media/10.69703485b9a502dbbfb5.jpg",
+    "static/media/film.png": "/story-sellers/static/media/film.593782150a1ec1fe8eaa.png",
+    "static/media/14.jpg": "/story-sellers/static/media/14.6dfbbd7f58db879482a9.jpg",
+    "static/media/img2.jpg": "/story-sellers/static/media/img2.78a945bdb07c54e0e310.jpg",
+    "static/media/img4.jpg": "/story-sellers/static/media/img4.8554a54a8d9b64834988.jpg",
+    "static/media/img7.jpg": "/story-sellers/static/media/img7.10dfca46d93859a7623e.jpg",
+    "static/media/img5.jpg": "/story-sellers/static/media/img5.c7a38207fa6006e7f8cc.jpg",
+    "static/media/12.jpg": "/story-sellers/static/media/12.a438a052844b53169e43.jpg",
+    "static/media/11.jpg": "/story-sellers/static/media/11.034d353d3fdd8842b10e.jpg",
+    "static/media/13.jpg": "/story-sellers/static/media/13.feeb50425631840c682a.jpg",
+    "static/media/9.jpg": "/story-sellers/static/media/9.1c48b4e8980805dba35f.jpg",
+    "static/media/15.jpg": "/story-sellers/static/media/15.af1b71d24039eff8f791.jpg",
+    "static/media/2.jpg": "/story-sellers/static/media/2.366ddf8ba91aadbaa3ad.jpg",
+    "static/media/3.jpg": "/story-sellers/static/media/3.2946ae75b999ceae24e2.jpg",
+    "static/media/4.jpg": "/story-sellers/static/media/4.aea983998d426aae2ddc.jpg",
+    "static/media/publish.png": "/story-sellers/static/media/publish.e7ae8010234ed6770c63.png",
+    "static/media/16.jpg": "/story-sellers/static/media/16.fcb013dc35826a3918f8.jpg",
+    "static/media/1.jpg": "/story-sellers/static/media/1.d66c46126b98f4dd88ca.jpg",
+    "static/media/img6.jpg": "/story-sellers/static/media/img6.c22545bdd34d908dd5ce.jpg",
+    "static/media/6.jpg": "/story-sellers/static/media/6.fa3a0b9daba9d91effe9.jpg",
+    "static/media/5.jpg": "/story-sellers/static/media/5.b7a69bcdcdce4f0dae0e.jpg",
+    "index.html": "/story-sellers/index.html",
+    "main.f5743f87.css.map": "/story-sellers/static/css/main.f5743f87.css.map",
+    "main.37a9e209.js.map": "/story-sellers/static/js/main.37a9e209.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5743f87.css",
+    "static/js/main.37a9e209.js"
+  ]
+}
